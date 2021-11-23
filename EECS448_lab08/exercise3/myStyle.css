@@ -1,0 +1,17 @@
+body
+{
+    margin: 20px;
+    background-color: rgb(200, 149, 78);
+    color: rgb(70, 25, 0);
+    font-family: Helvetica;
+    font-size: 11pt;
+    background-image: url(IMG-8291.jpg); background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+body:hover
+{
+  background-color: rgb(205, 160, 96);
+  color: rgb(250, 212, 150);
+}
